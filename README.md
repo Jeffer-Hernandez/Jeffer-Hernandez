@@ -2,11 +2,11 @@
 
 ## I'm a Computer Science student from NYC!
 
- ⚡ I'm an aspiring Front End Developer / UI & UX Guru
+ ⚡ I'm an aspiring Software Engineer
 
-🌱 I’m currently learning React and loving it!
+🌱 I’m currently learning Python and working with Django
 
-💡 It would be great to collaborate on some cool JS projects!
+💡 I'd love to work on some challenging problems
 
 <br/>
 <br/>
